@@ -1,0 +1,19 @@
+{
+  "name": "zanproxy-translate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "translate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node translate.js"
+  },
+  "bin": "./translate.js",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "figures": "^3.1.0",
+    "fs-extra": "^8.1.0",
+    "graceful-fs": "^4.2.3",
+    "signale": "^1.4.0"
+  }
+}
